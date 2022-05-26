@@ -73,3 +73,8 @@ npx jest
 ```
 
 Fix classes so tests pass.
+
+### References
+
+- https://codingdojo.org/kata/cupcake/
+- https://sharklabs.com.br/testes-unitarios-com-nodejs-jest-typescript/
